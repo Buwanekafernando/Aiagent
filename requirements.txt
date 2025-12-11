@@ -1,8 +1,9 @@
 langchain
 wikipedia
-langchain-community
-langchain-google-genai
-langchain-anthropic
-python-dotenv
+langchain_community
+langchain_google_genai
+langchain_anthropic
+python_dotenv
 pydantic
-duckduckgo-search
+duckduckgo_search
+langchain.agent
